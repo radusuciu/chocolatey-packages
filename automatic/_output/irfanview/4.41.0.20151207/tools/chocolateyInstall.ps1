@@ -1,6 +1,6 @@
 $packageName = 'irfanview'
 $installerType = 'exe'
-$urlArray = @('http://www.fosshub.com/genLink/IrfanView/iview441_setup.exe','http://www.fosshub.com/genLink/IrfanView/iview441_x64_setup.exe')
+$urlArray = @('http://www.fosshub.com/genLink/IrfanView/iview442_setup.exe','http://www.fosshub.com/genLink/IrfanView/iview442_x64_setup.exe')
 $url = $urlArray[0]
 $checksum = '9a51e8930455e49563fb24d6e576953ec484c52a'
 $checksumType = 'sha1'
